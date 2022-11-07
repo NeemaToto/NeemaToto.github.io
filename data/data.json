@@ -1,0 +1,15 @@
+{
+    "person": {
+    "firstName": "Neema",
+    "lastName": "Totonchi"
+    },
+"work": {
+    "job": "Student",
+    "program": "Digital Design and Development",
+    "url": "https://www.bcit.ca"
+    },
+"study": {
+   "programs": ["Applied Software Development Certificate", "Computer Systems Certificate", "Computer Systems Diploma"],
+"department": "School of Computing & Information Technology" 
+    } 
+}
