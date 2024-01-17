@@ -1,0 +1,893 @@
+[
+    {
+      "teaName": "Earl grey",
+      "type": "Black",
+      "steepTime": "3 min",
+      "origin": "England",
+      "benefit": "Stress",
+      "flavor": "Earthy",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Keemun",
+      "type": "Black",
+      "steepTime": "3 min",
+      "origin": "China",
+      "benefit": "stroke",
+      "flavor": "Earthy",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Chai",
+      "type": "Black",
+      "steepTime": "3 min",
+      "origin": "India",
+      "benefit": "stroke",
+      "flavor": "Spicy",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Morning Breakfast",
+      "type": "Black",
+      "steepTime": "3 min",
+      "origin": "England",
+      "benefit": "cholesterol",
+      "flavor": "Earthy",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Kombucha",
+      "type": "Black",
+      "steepTime": "7-30 days",
+      "origin": "China",
+      "benefit": "antioxidant",
+      "flavor": "Sweet",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Rize",
+      "type": "Black",
+      "steepTime": "3 min",
+      "origin": "Turkey",
+      "benefit": "heart",
+      "flavor": "Earthy",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Darjeeling",
+      "type": "Black",
+      "steepTime": "3 min",
+      "origin": "India",
+      "benefit": "Cancer",
+      "flavor": "Earthy",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Ceylon",
+      "type": "Black",
+      "steepTime": "3 min",
+      "origin": "Sri Lanka",
+      "benefit": "weight loss",
+      "flavor": "Earthy",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Golden monkey",
+      "type": "Black",
+      "steepTime": "3 min",
+      "origin": "China",
+      "benefit": "immune system",
+      "flavor": "Earthy",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Sun moon lake",
+      "type": "Black",
+      "steepTime": "3 min",
+      "origin": "Taiwan",
+      "benefit": "immune system",
+      "flavor": "Earthy",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Assam",
+      "type": "Black",
+      "steepTime": "3 min",
+      "origin": "India",
+      "benefit": "Heart",
+      "flavor": "Earthy",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Nilgiri",
+      "type": "Black",
+      "steepTime": "3 min",
+      "origin": "India",
+      "benefit": "Heart",
+      "flavor": "Earthy",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Cloud and Mist",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "China",
+      "benefit": "Cancer",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Liu an Gua",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "China",
+      "benefit": "Cancer",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Chun Mei",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "China",
+      "benefit": "Cancer",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Dragon Mountain",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "China",
+      "benefit": "Cancer",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Gunpowder",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "China",
+      "benefit": "heart",
+      "flavor": "Earthy",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Jasmine",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "China",
+      "benefit": "antioxidant",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Monkey king",
+      "type": "Green",
+      "steepTime": "2-3 min",
+      "origin": "China",
+      "benefit": "Cancer",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Matcha",
+      "type": "Green",
+      "steepTime": "None",
+      "origin": "Japan",
+      "benefit": "antioxidant",
+      "flavor": "Earthy",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Spring bud",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "China",
+      "benefit": "Cancer",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Snail Jasmine",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "China",
+      "benefit": "antioxidant",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Longjing",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "China",
+      "benefit": "weight loss",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Bancha",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "Japan",
+      "benefit": "antioxidant",
+      "flavor": "Earthy",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Gyokuro",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "Japan",
+      "benefit": "Cancer",
+      "flavor": "Earthy",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Sejak",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "Korea",
+      "benefit": "Cancer",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Kukiicha",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "Japan",
+      "benefit": "antioxidant",
+      "flavor": "Earthy",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Sencha",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "Japan",
+      "benefit": "antioxidant",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Ipcha",
+      "type": "Green",
+      "steepTime": "3-4 min",
+      "origin": "Korea",
+      "benefit": "Cancer",
+      "flavor": "Earthy",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Chamomile",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Egypt",
+      "benefit": "Sleep",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Echinacea",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "America",
+      "benefit": "Cold",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Hibiscus",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Middle East",
+      "benefit": "Blood pressure",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Roobios",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "South Africa",
+      "benefit": "Cancer",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Barley",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Japan",
+      "benefit": "Weight loss",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Chrysanthemum",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Fever",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Honey",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "unknown",
+      "benefit": "Throat",
+      "flavor": "Sweet",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Mint",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Korea",
+      "benefit": "nausea",
+      "flavor": "Sweet",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Ginger",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Nausea",
+      "flavor": "Spicy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Lemon",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "India",
+      "benefit": "Cold",
+      "flavor": "Sweet",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Peppermint",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Korea",
+      "benefit": "nausea",
+      "flavor": "Sweet",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Rosehip",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Cold",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Spearmint",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Korea",
+      "benefit": "nausea",
+      "flavor": "Sweet",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Tulsi",
+      "type": "Herbal",
+      "steepTime": "2-3 min",
+      "origin": "Asia",
+      "benefit": "invigorating",
+      "flavor": "Spicy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Yerba Mate",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Columbia",
+      "benefit": "invigorating",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Angelica root",
+      "type": "Herbal",
+      "steepTime": "7-12 min",
+      "origin": "China",
+      "benefit": "Cold",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Anise",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Asia",
+      "benefit": "Nausea",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Black Cohosh",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "America",
+      "benefit": "anti-inflamitory",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Bonset",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Flu",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Burdock",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Pain",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Calendula",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Middle East",
+      "benefit": "Skin",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Catnip",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "anti-inflamitory",
+      "flavor": "Spicy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Chickweed",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Europe",
+      "benefit": "Pain",
+      "flavor": "Spicy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Cinnamon",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Brain",
+      "flavor": "Spicy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Clove",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Pain",
+      "flavor": "Spicy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Dandelion",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "weight loss",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Eucalyptus",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Australia",
+      "benefit": "Flu",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Eyebright",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Egypt",
+      "benefit": "eyes",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "fennel",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Greece",
+      "benefit": "eyes",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "feverfew",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Australia",
+      "benefit": "fever",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Garlic",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Heart",
+      "flavor": "Spicy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Ginkgo Biloba",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Japan",
+      "benefit": "Brain",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Ginsing",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Cold",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Goldenrod",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "America",
+      "benefit": "Kidney",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Jasmine",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Calming",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Kava",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Pacific Isalands",
+      "benefit": "Calming",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Lavender",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "Egypt",
+      "benefit": "Calming",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Lemon grass",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Purifies",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Lemon verbana",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Love",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Marshmellow",
+      "type": "Herbal",
+      "steepTime": "10 min",
+      "origin": "Egypt",
+      "benefit": "Calming",
+      "flavor": "Sweet",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Motherwort",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Heart",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Mugwort",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Kidney",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Nettle",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Kidney",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Orange peel ",
+      "type": "Herbal",
+      "steepTime": "15 min",
+      "origin": "China",
+      "benefit": "Cold",
+      "flavor": "Sweet",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Raspberry leaves",
+      "type": "Herbal",
+      "steepTime": "15-20 min",
+      "origin": "Asia",
+      "benefit": "Child birth",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Rosemary",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Cancer",
+      "flavor": "Vegetal",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Sage",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "pain",
+      "flavor": "Vegetal",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Sassafras",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "blood",
+      "flavor": "Vegetal",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Skullcap",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "pain",
+      "flavor": "Sweet",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Strawberry leaves",
+      "type": "Herbal",
+      "steepTime": "5-10 min",
+      "origin": "Asia",
+      "benefit": "appatite",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Vervain",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "fever",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Walnut Leaves",
+      "type": "Herbal",
+      "steepTime": "5 min",
+      "origin": "Asia",
+      "benefit": "Diabetes",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "White oak bark",
+      "type": "Herbal",
+      "steepTime": "5-8 min",
+      "origin": "Asia",
+      "benefit": "balding",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Wild yam",
+      "type": "Herbal",
+      "steepTime": "3-5 min",
+      "origin": "Asia",
+      "benefit": "Calming",
+      "flavor": "Earthy",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Yarrow",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "fever",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Yellow dock",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Blood",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Yerba Santa",
+      "type": "Herbal",
+      "steepTime": "4-5 min",
+      "origin": "China",
+      "benefit": "Allergies",
+      "flavor": "Floral",
+      "caffeineLevel": "None"
+    },
+    {
+      "teaName": "Oolong",
+      "type": "Oolong",
+      "steepTime": "3-6 min",
+      "origin": "Taiwan",
+      "benefit": "cholesterol",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Yellow Godess",
+      "type": "Oolong",
+      "steepTime": "3-6 min",
+      "origin": "China",
+      "benefit": "weight loss",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Water Fairy",
+      "type": "Oolong",
+      "steepTime": "3-6 min",
+      "origin": "China",
+      "benefit": "cholesterol",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Low"
+    },
+    {
+      "teaName": "Pu-erh",
+      "type": "Pu-erh",
+      "steepTime": "3-5 min",
+      "origin": "China",
+      "benefit": "cholesterol",
+      "flavor": "Earthy",
+      "caffeineLevel": "High"
+    },
+    {
+      "teaName": "Longevity Eyebrow",
+      "type": "White",
+      "steepTime": "1-3 min",
+      "origin": "China",
+      "benefit": "anti-aging",
+      "flavor": "Floral",
+      "caffeineLevel": "Med"
+    },
+    {
+      "teaName": "Jasmine silver needle",
+      "type": "White",
+      "steepTime": "1-3 min",
+      "origin": "China",
+      "benefit": "anti-aging",
+      "flavor": "Floral",
+      "caffeineLevel": "Med"
+    },
+    {
+      "teaName": "Silver needle",
+      "type": "White",
+      "steepTime": "1-3 min",
+      "origin": "China",
+      "benefit": "anti-aging",
+      "flavor": "Floral",
+      "caffeineLevel": "Med"
+    },
+    {
+      "teaName": "White poeny",
+      "type": "White",
+      "steepTime": "1-3 min",
+      "origin": "China",
+      "benefit": "anti-aging",
+      "flavor": "Floral",
+      "caffeineLevel": "Med"
+    },
+    {
+      "teaName": "White monkey paw",
+      "type": "White",
+      "steepTime": "1-3 min",
+      "origin": "China",
+      "benefit": "anti-aging",
+      "flavor": "Floral",
+      "caffeineLevel": "Med"
+    },
+    {
+      "teaName": "Tribute eyebrow",
+      "type": "White",
+      "steepTime": "1-3 min",
+      "origin": "China",
+      "benefit": "anti-aging",
+      "flavor": "Floral",
+      "caffeineLevel": "Med"
+    },
+    {
+      "teaName": "Jun Shan",
+      "type": "Yellow",
+      "steepTime": "1-2 min",
+      "origin": "China",
+      "benefit": "weight loss",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Med"
+    },
+    {
+      "teaName": "Meng Ding",
+      "type": "Yellow",
+      "steepTime": "1-2 min",
+      "origin": "China",
+      "benefit": "weight loss",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Med"
+    },
+    {
+      "teaName": "Mo Gan",
+      "type": "Yellow",
+      "steepTime": "1-2 min",
+      "origin": "China",
+      "benefit": "weight loss",
+      "flavor": "Vegetal",
+      "caffeineLevel": "Med"
+    }
+   ]
