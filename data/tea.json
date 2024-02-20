@@ -701,7 +701,8 @@
       "origin": "China",
       "benefit": "Kidney",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://senchateabar.com/cdn/shop/articles/5d8a366133b3d4ef57cbd9f7_HRW4Cqs879qSeBsaI5j_Y0pxjeLGyPBnRcFSJzGCr0-X9qmDRNiY7H_GAFchWkxcyhSsEaJP4VGTpt1szMsbhwqP8mAD0c5fDcC5i6LEsCejgVo_IIwVzdwJhXXAwp_EwMPsO28f_1280x.jpeg?v=1596654009"
     },
     {
       "teaName": "Orange peel ",
@@ -710,7 +711,8 @@
       "origin": "China",
       "benefit": "Cold",
       "flavor": "Sweet",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://plantbasedjess.com/wp-content/uploads/2023/11/IMG_8778-1024x683.jpg"
     },
     {
       "teaName": "Raspberry leaves",
@@ -719,7 +721,8 @@
       "origin": "Asia",
       "benefit": "Child birth",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://marketing-uploads.fullscript.com/wp-content/uploads/2022/12/22141050/raspberry-leaf-benefits-1024x683.jpg"
     },
     {
       "teaName": "Rosemary",
@@ -728,7 +731,9 @@
       "origin": "China",
       "benefit": "Cancer",
       "flavor": "Vegetal",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.organicfacts.net/wp-content/uploads/rosemarytea-1.jpg"
+
     },
     {
       "teaName": "Sage",
@@ -737,7 +742,8 @@
       "origin": "China",
       "benefit": "pain",
       "flavor": "Vegetal",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.thespruceeats.com/thmb/RQsqikr0wRvxHXAN7Gk5rV35KOY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sage-tea-recipe-766393-hero-5c1d22d546e0fb000105988c.jpg"
     },
     {
       "teaName": "Sassafras",
@@ -746,7 +752,8 @@
       "origin": "China",
       "benefit": "blood",
       "flavor": "Vegetal",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://images.squarespace-cdn.com/content/v1/58dd3be4d482e984f3fdb996/1499176999383-415QZ0JBZGK99LW8W521/sassafras-tea.jpg?format=500w"
     },
     {
       "teaName": "Skullcap",
@@ -755,7 +762,8 @@
       "origin": "China",
       "benefit": "pain",
       "flavor": "Sweet",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.bestteacrafter.com/wp-content/uploads/2023/12/Skullcap-Tea-Recipe.webp"
     },
     {
       "teaName": "Strawberry leaves",
@@ -764,7 +772,8 @@
       "origin": "Asia",
       "benefit": "appatite",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.farmersalmanac.com/wp-content/uploads/2021/04/strawberry-leaf-tea-as_190347838-950x633.jpeg"
     },
     {
       "teaName": "Vervain",
@@ -773,7 +782,8 @@
       "origin": "China",
       "benefit": "fever",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.healthyhildegard.com/wp-content/uploads/2018/05/vervain-tea.jpeg"
     },
     {
       "teaName": "Walnut Leaves",
@@ -782,7 +792,8 @@
       "origin": "Asia",
       "benefit": "Diabetes",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.healthyhildegard.com/wp-content/uploads/2018/05/vervain-tea.jpeg"
     },
     {
       "teaName": "White oak bark",
@@ -791,7 +802,8 @@
       "origin": "Asia",
       "benefit": "balding",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.bostonharbormt.com/wp-content/shopp/images/IMG_1-9988.jpg"
     },
     {
       "teaName": "Wild yam",
@@ -800,7 +812,8 @@
       "origin": "Asia",
       "benefit": "Calming",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://images.squarespace-cdn.com/content/v1/5b18722ab40b9d832de44c13/1586937371485-7CJKHLSA550FVVK7ZZUX/Wild-Yam-Quickview+2.jpg?format=1000w"
     },
     {
       "teaName": "Yarrow",
@@ -809,7 +822,8 @@
       "origin": "China",
       "benefit": "fever",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/12/yarrow-tea-1296x728-header-1296x728.jpg?w=1575"
     },
     {
       "teaName": "Yellow dock",
@@ -818,7 +832,8 @@
       "origin": "China",
       "benefit": "Blood",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://postfiles.pstatic.net/20151013_67/jeasoup_1444739206786QdqYR_JPEG/BCE7C0EFC0CC_C0AFB1D9C7C7_001.jpg?type=w2"
     },
     {
       "teaName": "Yerba Santa",
@@ -827,7 +842,8 @@
       "origin": "China",
       "benefit": "Allergies",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://juniperridge.com/cdn/shop/files/YerbaSantaIcedTeaBeachPicnicWeb_640x_crop_center.jpg?v=1690921510"
     },
     {
       "teaName": "Oolong",
@@ -836,7 +852,8 @@
       "origin": "Taiwan",
       "benefit": "cholesterol",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://www.health.com/thmb/mDX1Od3-17dnQJtnhvRh6JeOn7w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OolongTea-231cf721d79545c19320a46f8fa4d8d4.jpg"
     },
     {
       "teaName": "Yellow Godess",
@@ -845,7 +862,8 @@
       "origin": "China",
       "benefit": "weight loss",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://teajourney.pub/wp-content/uploads/2019/06/TJBLOG190630_Tasting-Notes_Yellow-Goddess-Mercy_steeping.jpg"
     },
     {
       "teaName": "Water Fairy",
@@ -854,7 +872,8 @@
       "origin": "China",
       "benefit": "cholesterol",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://i0.wp.com/teabar.sk/wp-content/uploads/2020/11/1Q1A8967-ShuiXian.jpg?fit=1600%2C1067&ssl=1"
     },
     {
       "teaName": "Pu-erh",
@@ -863,7 +882,8 @@
       "origin": "China",
       "benefit": "cholesterol",
       "flavor": "Earthy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://treasuregreen.com/cdn/shop/files/PuErh_-Zhang-Xiang-Old-Tree_1600x_1bf709f8-605d-4cad-9c88-b746632b85c0_1000x.webp?v=1679603532"
     },
     {
       "teaName": "Longevity Eyebrow",
@@ -872,7 +892,8 @@
       "origin": "China",
       "benefit": "anti-aging",
       "flavor": "Floral",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://sevencups.com/files/2014/06/ShoMei20-Cupped-195F3M.jpg"
     },
     {
       "teaName": "Jasmine silver needle",
@@ -881,7 +902,8 @@
       "origin": "China",
       "benefit": "anti-aging",
       "flavor": "Floral",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://www.bluewillowtea.com/cdn/shop/products/DSC_0017_b5daf8ad-578b-40c6-b414-471d737bf7c7_grande.jpg?v=1637881957"
     },
     {
       "teaName": "Silver needle",
@@ -890,7 +912,8 @@
       "origin": "China",
       "benefit": "anti-aging",
       "flavor": "Floral",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://images.squarespace-cdn.com/content/v1/6130138482162a374cb67de8/1632976090325-MM4RUYDRMJP02HO6ZP6L/1.png?format=2500w"
     },
     {
       "teaName": "White poeny",
@@ -899,7 +922,8 @@
       "origin": "China",
       "benefit": "anti-aging",
       "flavor": "Floral",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://westholmetea.com/cdn/shop/products/BAI_MU_DAN_websize-4731_1800x1800.jpg?v=1572905806"
     },
     {
       "teaName": "White monkey paw",
@@ -908,17 +932,19 @@
       "origin": "China",
       "benefit": "anti-aging",
       "flavor": "Floral",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://kuanyinteas.com/cdn/shop/products/DSCN2530.jpg?v=1578356039&width=823"
     },
-    {
+    { 
       "teaName": "Tribute eyebrow",
       "type": "White",
       "steepTime": "1-3 min",
       "origin": "China",
       "benefit": "anti-aging",
       "flavor": "Floral",
-      "caffeineLevel": "Med"
-    },
+      "caffeineLevel": "Med",
+      "imageLink": "https://treasuregreen.com/cdn/shop/products/TreasureTea00126_600x.jpg?v=1669108862"
+    }, 
     {
       "teaName": "Jun Shan",
       "type": "Yellow",
