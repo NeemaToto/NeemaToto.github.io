@@ -148,7 +148,7 @@
       "benefit": "Cancer",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
-      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDD4HQm9U_kNpkRwr8iVtXBEFfkbC_koofyA&usqp=CAU"
+      "imageLink": "https://www.harney.com/cdn/shop/products/Cup_Shots_Chun_Mee_cb907de2-4807-4dd2-b09c-9387f22637d1.jpg?v=1611161913&width=700"
     },
     {
       "teaName": "Dragon Mountain",
@@ -220,7 +220,7 @@
       "benefit": "antioxidant",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
-      "imageLink": "https://ae01.alicdn.com/kf/Se1d89ca227e2433c84ec63af59c6f8a99/High-grade-jasmine-flower-jade-snail-king-new-tea-shop-strong-aroma-super-grade-jasmine-flower.jpg"
+      "imageLink": "https://www.oolongtime.com/cdn/shop/products/bi-luo-chun-green-snail-spring-tea-liquor-oolongtime_720x.jpg?v=1589601155"
     },
     {
       "teaName": "Longjing",
@@ -250,7 +250,7 @@
       "benefit": "Cancer",
       "flavor": "Earthy",
       "caffeineLevel": "Low",
-      "imageLink": "https://th.bing.com/th/id/OIP.B3s2w5YoNEkCAL01GqgbzwHaHa?rs=1&pid=ImgDetMain"
+      "imageLink": "https://www.hibiki-an.com/images/upload/GyokuroPremium_A01.jpg"
     },
     {
       "teaName": "Sejak",
@@ -280,7 +280,7 @@
       "benefit": "antioxidant",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
-      "imageLink": "https://th.bing.com/th/id/OIP.XPUtw918THm57cQy3WFGRwHaE7?w=266&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      "imageLink": "https://sakura.co/wp-content/uploads/2021/07/shutterstock_1260651301-1.jpg"
     },
     {
       "teaName": "Ipcha",
@@ -290,7 +290,7 @@
       "benefit": "Cancer",
       "flavor": "Earthy",
       "caffeineLevel": "Low",
-      "imageLink": "https://th.bing.com/th/id/OIP.OrD-0SE3pvuxamciektv-AHaE8?w=291&h=193&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      "imageLink": "https://www.orientalmart.co.uk/route/images/uploads/news/1571051350.jpeg"
     },
     {
       "teaName": "Chamomile",
@@ -390,7 +390,7 @@
       "benefit": "Cold",
       "flavor": "Sweet",
       "caffeineLevel": "None",
-      "imageLink": "https://th.bing.com/th/id/R.fac2409d3060edce2697f17b0f309df2?rik=KZNqw1M%2bmzT9BQ&riu=http%3a%2f%2fyesofcorsa.com%2fwp-content%2fuploads%2f2017%2f07%2fLemon-Tea-Wallpaper-Full-HD.jpg&ehk=FV4nBFzzExCP%2fnyw3C4RELWohTdpLO3BEqgCeRjBlrQ%3d&risl=&pid=ImgRaw&r=0"
+      "imageLink": "https://st4prdbebeautiful4s4ci.blob.core.windows.net/www-bebeautiful-in/Everything-you-need-to-know-about-lemon-tea_1.jpg?w=300"
     },
     {
       "teaName": "Peppermint",
@@ -440,7 +440,7 @@
       "benefit": "invigorating",
       "flavor": "Earthy",
       "caffeineLevel": "None",
-      "imageLink": "https://th.bing.com/th/id/R.7c19e1346f4b51028414428a90012d7c?rik=p6mhWInPewx%2buw&riu=http%3a%2f%2fteaperspective.com%2fwp-content%2fuploads%2f2016%2f03%2fyerba-tea.jpg&ehk=pt6yv3kRmD4heD5Gv12jo1%2bZVcsOMpgf3upM59hn1YM%3d&risl=&pid=ImgRaw&r=0"
+      "imageLink": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/benefits-of-yerba-mate-1296x728-feature.jpg"
     },
     {
       "teaName": "Angelica Root",
@@ -952,7 +952,7 @@
       "caffeineLevel": "Med",
       "imageLink": "https://www.adagio.com/images5/products_retina/white_monkey.jpg"
     },
-    {
+    { 
       "teaName": "Tribute eyebrow",
       "type": "White",
       "steepTime": "1-3 min",
