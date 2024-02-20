@@ -469,7 +469,8 @@
       "origin": "America",
       "benefit": "anti-inflamitory",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://augmentlifeshop.com/cdn/shop/articles/201710_black_cohosh.jpg?v=1698942408"
     },
     {
       "teaName": "Bonset",
@@ -478,7 +479,8 @@
       "origin": "China",
       "benefit": "Flu",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://ionherbals.com.au/cdn/shop/products/Boneset_1024x1024@2x.jpg?v=1538969065"
     },
     {
       "teaName": "Burdock",
@@ -487,7 +489,8 @@
       "origin": "China",
       "benefit": "Pain",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://cdn-prod.medicalnewstoday.com/content/images/articles/320/320035/burdock-tea.jpg"
     },
     {
       "teaName": "Calendula",
@@ -496,7 +499,8 @@
       "origin": "Middle East",
       "benefit": "Skin",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://cdn.mos.cms.futurecdn.net/3dZuMzoGpgcvEMCQhyY8w5.jpg"
     },
     {
       "teaName": "Catnip",
@@ -505,7 +509,8 @@
       "origin": "China",
       "benefit": "anti-inflamitory",
       "flavor": "Spicy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://nevadahumanesociety.org/wp-content/uploads/2021/11/miss-rose-scaled-e1637524611113-1024x969.jpg"
     },
     {
       "teaName": "Chickweed",
@@ -514,7 +519,8 @@
       "origin": "Europe",
       "benefit": "Pain",
       "flavor": "Spicy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://plantura.garden/uk/wp-content/uploads/sites/2/2021/11/chickweed-tea-1024x683.jpg?x63657"
     },
     {
       "teaName": "Cinnamon",
@@ -523,7 +529,8 @@
       "origin": "China",
       "benefit": "Brain",
       "flavor": "Spicy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://tarasmulticulturaltable.com/wp-content/uploads/2014/01/Sudanese-Cinnamon-Tea-3-of-3.jpg"
     },
     {
       "teaName": "Clove",
