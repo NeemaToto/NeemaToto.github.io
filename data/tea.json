@@ -51,7 +51,8 @@
       "origin": "Turkey",
       "benefit": "heart",
       "flavor": "Earthy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://i0.wp.com/rayhaber.com/wp-content/uploads/2023/06/Rize-Cayi-THYnin-Ikram-Menusunde-Yer-Alacak.jpg?fit=2136%2C1200&ssl=1"
     },
     {
       "teaName": "Darjeeling",
@@ -60,7 +61,8 @@
       "origin": "India",
       "benefit": "Cancer",
       "flavor": "Earthy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://teaforte.com/cdn/shop/articles/TF_What_Is_Darjeeling_HERO_V3_2880x1512_d72eecbe-c914-4fe3-8325-11366b7ee396.jpg?v=1705961868&width=2880"
     },
     {
       "teaName": "Ceylon",
@@ -69,7 +71,8 @@
       "origin": "Sri Lanka",
       "benefit": "weight loss",
       "flavor": "Earthy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://www.thespruceeats.com/thmb/OqqLPAwjPFtkKXaffOYrvtyeDx0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-ceylon-tea-sri-lankan-tea-765685-hero-03-e0a30cd2009d42b3afbcff18f0eea4eb.jpg"
     },
     {
       "teaName": "Golden monkey",
@@ -78,7 +81,8 @@
       "origin": "China",
       "benefit": "immune system",
       "flavor": "Earthy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://d27pcll2dx97vv.cloudfront.net/pub/media/catalog/product/g/a/gaojijinmaohou_m_1.jpg"
     },
     {
       "teaName": "Sun moon lake",
@@ -87,7 +91,8 @@
       "origin": "Taiwan",
       "benefit": "immune system",
       "flavor": "Earthy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://zenteatraders.com/cdn/shop/products/SunMoon_1200x1200.jpg?v=1591857343"
     },
     {
       "teaName": "Assam",
@@ -96,7 +101,8 @@
       "origin": "India",
       "benefit": "Heart",
       "flavor": "Earthy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://www.thespruceeats.com/thmb/v9Xe9oKOBwILGwNh27eundLnn3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/assamteaAnthiaCumming-114dde044d944c91bf2d77e3fb85d0e0.jpg"
     },
     {
       "teaName": "Nilgiri",
@@ -105,7 +111,8 @@
       "origin": "India",
       "benefit": "Heart",
       "flavor": "Earthy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://senchateabar.com/cdn/shop/articles/5e46df9c1892f18f3cdee574_AdobeStock_316822193_1200x1200.jpeg?v=1596842745"
     },
     {
       "teaName": "Cloud and Mist",
@@ -114,7 +121,8 @@
       "origin": "China",
       "benefit": "Cancer",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://sevencups.com/files/2015/10/GT-YunWu21-Dry-Leaf.jpg"
     },
     {
       "teaName": "Liu an Gua",
@@ -123,7 +131,8 @@
       "origin": "China",
       "benefit": "Cancer",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://redblossomtea.com/cdn/shop/products/LiuAnGuaPian_1_1024x1024.jpg?v=1689296950"
     },
     {
       "teaName": "Chun Mei",
@@ -132,7 +141,8 @@
       "origin": "China",
       "benefit": "Cancer",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDD4HQm9U_kNpkRwr8iVtXBEFfkbC_koofyA&usqp=CAU"
     },
     {
       "teaName": "Dragon Mountain",
@@ -141,7 +151,8 @@
       "origin": "China",
       "benefit": "Cancer",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://cdn11.bigcommerce.com/s-qzq8dm5/images/stencil/1280x1280/products/24537/367462/O1CN01cWfpK11WzvUl3I1ED_716282860__05469.1650079161.jpg?c=2"
     },
     {
       "teaName": "Gunpowder",
@@ -150,7 +161,9 @@
       "origin": "China",
       "benefit": "heart",
       "flavor": "Earthy",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://www.harney.com/cdn/shop/articles/harney-blog-gunpowder-1.jpg?v=1631915390&width=1000"
+
     },
     {
       "teaName": "Jasmine",
@@ -159,7 +172,8 @@
       "origin": "China",
       "benefit": "antioxidant",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://images.unsplash.com/photo-1547825407-2d060104b7f8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "teaName": "Monkey king",
@@ -168,7 +182,8 @@
       "origin": "China",
       "benefit": "Cancer",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://cdn11.bigcommerce.com/s-y3f62xrw45/images/stencil/2048x2048/products/238/204/103._Green_Monkey_King_1oz_2__57308.1574067675.jpg?c=1"
     },
     {
       "teaName": "Matcha",
@@ -177,7 +192,9 @@
       "origin": "Japan",
       "benefit": "antioxidant",
       "flavor": "Earthy",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://images.pexels.com/photos/1581484/pexels-photo-1581484.jpeg?cs=srgb&dl=pexels-nipananlifestylecom-1581484.jpg&fm=jpg"
+
     },
     {
       "teaName": "Spring bud",
@@ -186,7 +203,8 @@
       "origin": "China",
       "benefit": "Cancer",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://yunnansourcing.com/cdn/shop/products/DSC_3447_da6ff718-ed83-4d1c-8bfe-ca685792e1fe_1049x700.jpg?v=1616724031"
     },
     {
       "teaName": "Snail Jasmine",
@@ -195,7 +213,8 @@
       "origin": "China",
       "benefit": "antioxidant",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://ae01.alicdn.com/kf/Se1d89ca227e2433c84ec63af59c6f8a99/High-grade-jasmine-flower-jade-snail-king-new-tea-shop-strong-aroma-super-grade-jasmine-flower.jpg"
     },
     {
       "teaName": "Longjing",
@@ -204,7 +223,8 @@
       "origin": "China",
       "benefit": "weight loss",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://truly-fresh.ca/cdn/shop/products/2022042105564338.jpg?v=1661347938"
     },
     {
       "teaName": "Bancha",
