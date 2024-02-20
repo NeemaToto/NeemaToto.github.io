@@ -6,7 +6,8 @@
       "origin": "England",
       "benefit": "Stress",
       "flavor": "Earthy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://images.squarespace-cdn.com/content/v1/5ac512d2b10598fe70ea9df5/1570554262820-EL82ZAWW9AWZCSWIFJBU/Learn+how+to+make+your+own+Earl+Grey+tea+with+only+3+ingredients.+Cater+it+to+the+strength+you+prefer."
     },
     {
       "teaName": "Keemun",
@@ -15,7 +16,8 @@
       "origin": "China",
       "benefit": "stroke",
       "flavor": "Earthy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://uploads-ssl.webflow.com/5d8a366133b3d4f879cbd418/5e56c947ee3a0917057aff91_u2w0di8Y_Gvnsg89M6zqlNgQEi37lHOa5SPUF2fuqLZDVvYFpHRe_G2KMFXGSAVsPRrM41OZ6jVYSpme7nEQcMjHrlJ3nRLuapGdbNERr0hPUUk8RLai_abPxtmdAcLjnBwxfQP3.jpeg"
     },
     {
       "teaName": "Chai",
@@ -24,7 +26,8 @@
       "origin": "India",
       "benefit": "stroke",
       "flavor": "Spicy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://thehouseandhomestead.com/wp-content/uploads/2021/12/Chai-Tea-Mix-5-720x720.jpg"
     },
     {
       "teaName": "Morning Breakfast",
@@ -33,7 +36,8 @@
       "origin": "England",
       "benefit": "cholesterol",
       "flavor": "Earthy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://www.lifeisbetterwithtea.com/wp-content/uploads/2021/09/English-Breakfast-Tea-with-milk-square.jpeg"
     },
     {
       "teaName": "Kombucha",
@@ -42,7 +46,9 @@
       "origin": "China",
       "benefit": "antioxidant",
       "flavor": "Sweet",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8a29tYnVjaGF8ZW58MHx8MHx8fDA%3D"
+
     },
     {
       "teaName": "Rize",
