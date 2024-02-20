@@ -213,7 +213,8 @@
       "origin": "Japan",
       "benefit": "antioxidant",
       "flavor": "Earthy",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://thejapanstore.us/wp-content/uploads/2021/05/banchatea_en_01.jpg"
     },
     {
       "teaName": "Gyokuro",
@@ -222,7 +223,8 @@
       "origin": "Japan",
       "benefit": "Cancer",
       "flavor": "Earthy",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://th.bing.com/th/id/OIP.B3s2w5YoNEkCAL01GqgbzwHaHa?rs=1&pid=ImgDetMain"
     },
     {
       "teaName": "Sejak",
@@ -231,7 +233,8 @@
       "origin": "Korea",
       "benefit": "Cancer",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://maketeas.com/wp-content/uploads/2023/12/Sejak-Tea.webp"
     },
     {
       "teaName": "Kukiicha",
@@ -240,7 +243,8 @@
       "origin": "Japan",
       "benefit": "antioxidant",
       "flavor": "Earthy",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://ecocosas.com/wp-content/uploads/2020/11/te-kukicha.jpg"
     },
     {
       "teaName": "Sencha",
@@ -249,7 +253,8 @@
       "origin": "Japan",
       "benefit": "antioxidant",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://th.bing.com/th/id/OIP.XPUtw918THm57cQy3WFGRwHaE7?w=266&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
     },
     {
       "teaName": "Ipcha",
@@ -258,7 +263,8 @@
       "origin": "Korea",
       "benefit": "Cancer",
       "flavor": "Earthy",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://th.bing.com/th/id/OIP.OrD-0SE3pvuxamciektv-AHaE8?w=291&h=193&c=7&r=0&o=5&dpr=1.3&pid=1.7"
     },
     {
       "teaName": "Chamomile",
@@ -267,7 +273,8 @@
       "origin": "Egypt",
       "benefit": "Sleep",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://th.bing.com/th/id/OIP.5YYc4wohGbwzS_BcdHZRRQHaFf?w=246&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7"
     },
     {
       "teaName": "Echinacea",
@@ -276,7 +283,8 @@
       "origin": "America",
       "benefit": "Cold",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://teaperspective.com/wp-content/uploads/2016/07/tea-made-from-echinacea.jpg"
     },
     {
       "teaName": "Hibiscus",
@@ -285,7 +293,8 @@
       "origin": "Middle East",
       "benefit": "Blood pressure",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://th.bing.com/th/id/R.155bfe9f3f211918ca3ac257e38b23c4?rik=92MOnmnP0xY3Og&pid=ImgRaw&r=0"
     },
     {
       "teaName": "Roobios",
@@ -294,7 +303,8 @@
       "origin": "South Africa",
       "benefit": "Cancer",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://flipthelife.com/wp-content/uploads/2017/11/Health-benefits-of-rooibos-tea.jpg"
     },
     {
       "teaName": "Barley",
@@ -303,7 +313,8 @@
       "origin": "Japan",
       "benefit": "Weight loss",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://sakura.co/wp-content/uploads/2023/02/sakuraco_barley-tea-thumbnail.png"
     },
     {
       "teaName": "Chrysanthemum",
@@ -312,7 +323,8 @@
       "origin": "China",
       "benefit": "Fever",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.dumplingconnection.com/wp-content/uploads/2020/07/AdobeStock_241672886.jpeg"
     },
     {
       "teaName": "Honey",
@@ -321,7 +333,8 @@
       "origin": "unknown",
       "benefit": "Throat",
       "flavor": "Sweet",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.organicfacts.net/wp-content/uploads/honeytea-1.jpg"
     },
     {
       "teaName": "Mint",
@@ -330,7 +343,8 @@
       "origin": "Korea",
       "benefit": "nausea",
       "flavor": "Sweet",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.thespruceeats.com/thmb/R9zW4mNO6m-bUuZgdlnVNb2GLNM=/3110x0/filters:no_upscale():max_bytes(150000):strip_icc()/easy-fresh-mint-tea-recipe-766391-Final-5bae57fc46e0fb0026135cfb.jpg"
     },
     {
       "teaName": "Ginger",
@@ -339,7 +353,8 @@
       "origin": "China",
       "benefit": "Nausea",
       "flavor": "Spicy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.migrelief.com/wp-content/uploads/2013/08/Ginger-Tea-Recipes-scaled.jpeg"
     },
     {
       "teaName": "Lemon",
@@ -348,7 +363,8 @@
       "origin": "India",
       "benefit": "Cold",
       "flavor": "Sweet",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://th.bing.com/th/id/R.fac2409d3060edce2697f17b0f309df2?rik=KZNqw1M%2bmzT9BQ&riu=http%3a%2f%2fyesofcorsa.com%2fwp-content%2fuploads%2f2017%2f07%2fLemon-Tea-Wallpaper-Full-HD.jpg&ehk=FV4nBFzzExCP%2fnyw3C4RELWohTdpLO3BEqgCeRjBlrQ%3d&risl=&pid=ImgRaw&r=0"
     },
     {
       "teaName": "Peppermint",
@@ -357,7 +373,8 @@
       "origin": "Korea",
       "benefit": "nausea",
       "flavor": "Sweet",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.tasteofhome.com/wp-content/uploads/2018/11/peppermint-tea.jpg"
     },
     {
       "teaName": "Rosehip",
@@ -366,7 +383,8 @@
       "origin": "China",
       "benefit": "Cold",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://th.bing.com/th/id/R.e180f45327768167be50f27938c83727?rik=AQA8LGmrJ6diCQ&pid=ImgRaw&r=0"
     },
     {
       "teaName": "Spearmint",
@@ -375,7 +393,8 @@
       "origin": "Korea",
       "benefit": "nausea",
       "flavor": "Sweet",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://media.mercola.com/ImageServer/Public/2018/April/FB/spearmint-tea-fb.jpg"
     },
     {
       "teaName": "Tulsi",
@@ -384,7 +403,8 @@
       "origin": "Asia",
       "benefit": "invigorating",
       "flavor": "Spicy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://recipes.net/wp-content/uploads/2021/02/Tulsi-Tea-Recipe-1-Holy-Basil-Tea-scaled.jpeg"
     },
     {
       "teaName": "Yerba Mate",
@@ -393,7 +413,8 @@
       "origin": "Columbia",
       "benefit": "invigorating",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://th.bing.com/th/id/R.7c19e1346f4b51028414428a90012d7c?rik=p6mhWInPewx%2buw&riu=http%3a%2f%2fteaperspective.com%2fwp-content%2fuploads%2f2016%2f03%2fyerba-tea.jpg&ehk=pt6yv3kRmD4heD5Gv12jo1%2bZVcsOMpgf3upM59hn1YM%3d&risl=&pid=ImgRaw&r=0"
     },
     {
       "teaName": "Angelica root",
@@ -402,7 +423,8 @@
       "origin": "China",
       "benefit": "Cold",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://steepedstreet.com/wp-content/uploads/2023/03/Angelica-Root-Tea-Recipe-Cup.jpg"
     },
     {
       "teaName": "Anise",
@@ -411,7 +433,8 @@
       "origin": "Asia",
       "benefit": "Nausea",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://i.pinimg.com/originals/7c/22/54/7c225412d1407e96cf64c1fec500d7f9.jpg"
     },
     {
       "teaName": "Black Cohosh",
