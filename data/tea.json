@@ -148,7 +148,7 @@
       "benefit": "Prevent Cancer",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
-      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDD4HQm9U_kNpkRwr8iVtXBEFfkbC_koofyA&usqp=CAU"
+      "imageLink": "https://www.harney.com/cdn/shop/products/Cup_Shots_Chun_Mee_cb907de2-4807-4dd2-b09c-9387f22637d1.jpg?v=1611161913&width=700"
     },
     {
       "teaName": "Dragon Mountain",
@@ -220,7 +220,7 @@
       "benefit": "antioxidant",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
-      "imageLink": "https://ae01.alicdn.com/kf/Se1d89ca227e2433c84ec63af59c6f8a99/High-grade-jasmine-flower-jade-snail-king-new-tea-shop-strong-aroma-super-grade-jasmine-flower.jpg"
+      "imageLink": "https://www.oolongtime.com/cdn/shop/products/bi-luo-chun-green-snail-spring-tea-liquor-oolongtime_720x.jpg?v=1589601155"
     },
     {
       "teaName": "Longjing",
@@ -250,7 +250,7 @@
       "benefit": "Prevent Cancer",
       "flavor": "Earthy",
       "caffeineLevel": "Low",
-      "imageLink": "https://th.bing.com/th/id/OIP.B3s2w5YoNEkCAL01GqgbzwHaHa?rs=1&pid=ImgDetMain"
+      "imageLink": "https://www.hibiki-an.com/images/upload/GyokuroPremium_A01.jpg"
     },
     {
       "teaName": "Sejak",
@@ -280,7 +280,7 @@
       "benefit": "antioxidant",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
-      "imageLink": "https://th.bing.com/th/id/OIP.XPUtw918THm57cQy3WFGRwHaE7?w=266&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      "imageLink": "https://sakura.co/wp-content/uploads/2021/07/shutterstock_1260651301-1.jpg"
     },
     {
       "teaName": "Ipcha",
@@ -290,7 +290,7 @@
       "benefit": "Prevent Cancer",
       "flavor": "Earthy",
       "caffeineLevel": "Low",
-      "imageLink": "https://th.bing.com/th/id/OIP.OrD-0SE3pvuxamciektv-AHaE8?w=291&h=193&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      "imageLink": "https://www.orientalmart.co.uk/route/images/uploads/news/1571051350.jpeg"
     },
     {
       "teaName": "Chamomile",
@@ -390,7 +390,7 @@
       "benefit": "Cold Relief",
       "flavor": "Sweet",
       "caffeineLevel": "None",
-      "imageLink": "https://th.bing.com/th/id/R.fac2409d3060edce2697f17b0f309df2?rik=KZNqw1M%2bmzT9BQ&riu=http%3a%2f%2fyesofcorsa.com%2fwp-content%2fuploads%2f2017%2f07%2fLemon-Tea-Wallpaper-Full-HD.jpg&ehk=FV4nBFzzExCP%2fnyw3C4RELWohTdpLO3BEqgCeRjBlrQ%3d&risl=&pid=ImgRaw&r=0"
+      "imageLink": "https://st4prdbebeautiful4s4ci.blob.core.windows.net/www-bebeautiful-in/Everything-you-need-to-know-about-lemon-tea_1.jpg?w=300"
     },
     {
       "teaName": "Peppermint",
@@ -440,7 +440,7 @@
       "benefit": "invigorating",
       "flavor": "Earthy",
       "caffeineLevel": "None",
-      "imageLink": "https://th.bing.com/th/id/R.7c19e1346f4b51028414428a90012d7c?rik=p6mhWInPewx%2buw&riu=http%3a%2f%2fteaperspective.com%2fwp-content%2fuploads%2f2016%2f03%2fyerba-tea.jpg&ehk=pt6yv3kRmD4heD5Gv12jo1%2bZVcsOMpgf3upM59hn1YM%3d&risl=&pid=ImgRaw&r=0"
+      "imageLink": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/benefits-of-yerba-mate-1296x728-feature.jpg"
     },
     {
       "teaName": "Angelica Root",
@@ -469,7 +469,8 @@
       "origin": "America",
       "benefit": "anti-inflamitory",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://augmentlifeshop.com/cdn/shop/articles/201710_black_cohosh.jpg?v=1698942408"
     },
     {
       "teaName": "Bonset",
@@ -478,7 +479,8 @@
       "origin": "China",
       "benefit": "Flu",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://ionherbals.com.au/cdn/shop/products/Boneset_1024x1024@2x.jpg?v=1538969065"
     },
     {
       "teaName": "Burdock",
@@ -487,7 +489,8 @@
       "origin": "China",
       "benefit": "Pain",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://cdn-prod.medicalnewstoday.com/content/images/articles/320/320035/burdock-tea.jpg"
     },
     {
       "teaName": "Calendula",
@@ -496,7 +499,8 @@
       "origin": "Middle East",
       "benefit": "Skin",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://cdn.mos.cms.futurecdn.net/3dZuMzoGpgcvEMCQhyY8w5.jpg"
     },
     {
       "teaName": "Catnip",
@@ -505,7 +509,8 @@
       "origin": "China",
       "benefit": "anti-inflamitory",
       "flavor": "Spicy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://nevadahumanesociety.org/wp-content/uploads/2021/11/miss-rose-scaled-e1637524611113-1024x969.jpg"
     },
     {
       "teaName": "Chickweed",
@@ -514,7 +519,8 @@
       "origin": "Europe",
       "benefit": "Pain",
       "flavor": "Spicy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://plantura.garden/uk/wp-content/uploads/sites/2/2021/11/chickweed-tea-1024x683.jpg?x63657"
     },
     {
       "teaName": "Cinnamon",
@@ -523,7 +529,8 @@
       "origin": "China",
       "benefit": "Improve Brain Function",
       "flavor": "Spicy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://tarasmulticulturaltable.com/wp-content/uploads/2014/01/Sudanese-Cinnamon-Tea-3-of-3.jpg"
     },
     {
       "teaName": "Clove",
@@ -532,7 +539,8 @@
       "origin": "China",
       "benefit": "Pain",
       "flavor": "Spicy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://static.toiimg.com/photo/81915984.cms"
     },
     {
       "teaName": "Dandelion",
@@ -541,7 +549,8 @@
       "origin": "China",
       "benefit": "weight loss",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://parade.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTgxMjMyOTA1NDk2NDQ0/dandelion-tea-jpg.jpg"
     },
     {
       "teaName": "Eucalyptus",
@@ -550,7 +559,8 @@
       "origin": "Australia",
       "benefit": "Flu",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.tealife.com.au/cdn/shop/articles/eucalyptus_tea_in_bowl.jpg?v=1606897584"
     },
     {
       "teaName": "Eyebright",
@@ -559,7 +569,8 @@
       "origin": "Egypt",
       "benefit": "Improve Eyesight",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://media01.stockfood.com/largepreviews/MTE1MDk4NjY=/00371286-A-cup-of-eyebright-tea-Euphrasia-rostkoviana.jpg"
     },
     {
       "teaName": "fennel",
@@ -568,7 +579,8 @@
       "origin": "Greece",
       "benefit": "Improve Eyesight",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://static.toiimg.com/photo/84141091.cms"
     },
     {
       "teaName": "FeverFew",
@@ -577,7 +589,8 @@
       "origin": "Australia",
       "benefit": "Fever Relief",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://jenni-kayne.s3.amazonaws.com/wordpress/uploads/2017/03/Tea-Bundles-1.jpg"
     },
     {
       "teaName": "Garlic",
@@ -586,7 +599,8 @@
       "origin": "China",
       "benefit": "Heart Health",
       "flavor": "Spicy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://imgeng.jagran.com/images/2023/sep/garlic-tea-benefits1693970286372.jpg"
     },
     {
       "teaName": "Ginkgo Biloba",
@@ -595,7 +609,8 @@
       "origin": "Japan",
       "benefit": "Improve Brain Function",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.bravotea.com/wp-content/uploads/2020/02/gingko-blog-preview-image.jpg"
     },
     {
       "teaName": "Ginsing",
@@ -604,7 +619,8 @@
       "origin": "China",
       "benefit": "Cold Relief",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.besthealthmag.ca/wp-content/uploads/2018/10/Ginseng-Elixir.jpg"
     },
     {
       "teaName": "Goldenrod",
@@ -613,7 +629,8 @@
       "origin": "America",
       "benefit": "Improve Kidney Health",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://media01.stockfood.com/largepreviews/MzQ4NDg2ODcy/11241512-Goldenrod-tea-in-a-glass-cup-dried-tea-leaves-and-fresh-flowers.jpg"
     },
     {
       "teaName": "Jasmine",
@@ -622,7 +639,8 @@
       "origin": "China",
       "benefit": "Calming",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://betterme.world/articles/wp-content/uploads/2020/06/Does-Tea-Break-A-Fast.jpg"
     },
     {
       "teaName": "Kava",
@@ -631,7 +649,8 @@
       "origin": "Pacific Isalands",
       "benefit": "Calming",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.foodandwine.com/thmb/OAEhrhARFqT-Y_1Q_YXxyDbDxBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Rise-of-Kava-Bars-FT-BLOG0523-bfe446529c3e4b2a9015fb6d643aeb25.jpg"
     },
     {
       "teaName": "Lavender",
@@ -640,7 +659,8 @@
       "origin": "Egypt",
       "benefit": "Calming",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://fullscript.com/wp-content/uploads/2022/10/lavender-tea-benefits.jpg"
     },
     {
       "teaName": "Lemon grass",
@@ -649,7 +669,8 @@
       "origin": "China",
       "benefit": "Purifies",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://joyfuldumplings.com/wp-content/uploads/2022/10/lemongrass-substitues-1.jpg"
     },
     {
       "teaName": "Lemon verbana",
@@ -658,7 +679,8 @@
       "origin": "China",
       "benefit": "Love",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://gardenerspath.com/wp-content/uploads/2022/06/How-to-Make-Lemon-Verbena-Tea-Feature.jpg"
     },
     {
       "teaName": "Marshmellow",
@@ -667,7 +689,8 @@
       "origin": "Egypt",
       "benefit": "Calming",
       "flavor": "Sweet",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://cdn-prod.medicalnewstoday.com/content/images/articles/324/324860/marshmallow-root-and-flower.jpg"
     },
     {
       "teaName": "Motherwort",
@@ -676,7 +699,8 @@
       "origin": "China",
       "benefit": "Heart Health",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://gardenerspath.com/wp-content/uploads/2020/04/Motherwort-Tea-and-Herb-Sprig.jpg"
     },
     {
       "teaName": "Mugwort",
@@ -685,7 +709,8 @@
       "origin": "China",
       "benefit": "Improve Kidney Health",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.zohna.com/wp-content/uploads/mugwort-tea-intro.jpg"
     },
     {
       "teaName": "Nettle",
@@ -694,7 +719,8 @@
       "origin": "China",
       "benefit": "Improve Kidney Health",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://images.squarespace-cdn.com/content/v1/6070837df2ab0c3c0b3ef049/1654987640747-QYZN6771Y5TPFJEWCMI5/nettle_stinging_tea.jpg?format=2500w"
     },
     {
       "teaName": "Orange peel ",
@@ -703,7 +729,8 @@
       "origin": "China",
       "benefit": "Cold Relief",
       "flavor": "Sweet",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.thermos.com.sg/assets/recipes/Orange-Peel-and-ginger-tea-1000.png"
     },
     {
       "teaName": "Raspberry leaves",
@@ -712,7 +739,8 @@
       "origin": "Asia",
       "benefit": "Child birth",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://m.media-amazon.com/images/I/71iZ3-9sjdL._AC_UF1000,1000_QL80_.jpg"
     },
     {
       "teaName": "Rosemary",
@@ -721,7 +749,8 @@
       "origin": "China",
       "benefit": "Prevent Cancer",
       "flavor": "Vegetal",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://andreabeaman.com/wp-content/uploads/2018/01/Rosemary-tea.jpg"
     },
     {
       "teaName": "Sage",
@@ -730,7 +759,8 @@
       "origin": "China",
       "benefit": "pain",
       "flavor": "Vegetal",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.nutrizonia.com/wp-content/uploads/2015/10/sage-drink-.jpg"
     },
     {
       "teaName": "Sassafras",
@@ -739,7 +769,8 @@
       "origin": "China",
       "benefit": "blood",
       "flavor": "Vegetal",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://media02.stockfood.com/largepreviews/NTMwOTAyOQ==/00171259-Sassafras-tea-and-bark-Sassafras-albidum.jpg"
     },
     {
       "teaName": "Skullcap",
@@ -748,7 +779,8 @@
       "origin": "China",
       "benefit": "pain",
       "flavor": "Sweet",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.herbcottage.com.au/cdn/shop/files/skullcap_clipped_rev_2_b2f7301a-5c8f-4252-bffb-1aa1aef3c8e7.jpg?v=1690414210"
     },
     {
       "teaName": "Strawberry leaves",
@@ -757,7 +789,8 @@
       "origin": "Asia",
       "benefit": "Improve Appatite",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.farmersalmanac.com/wp-content/uploads/2021/04/strawberry-leaf-tea-as_190347838-950x633.jpeg"
     },
     {
       "teaName": "Vervain",
@@ -766,7 +799,8 @@
       "origin": "China",
       "benefit": "Fever Relief",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://spiriteadrinks.com/wp-content/uploads/2023/09/blue-vervain-tea-benefits.jpg"
     },
     {
       "teaName": "Walnut Leaves",
@@ -775,7 +809,8 @@
       "origin": "Asia",
       "benefit": "Reduce Blood Sugar",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.ruralsprout.com/wp-content/uploads/2021/07/dried-walnut-leaves-for-tea-1024x785.jpg"
     },
     {
       "teaName": "White oak bark",
@@ -784,7 +819,8 @@
       "origin": "Asia",
       "benefit": "Decrease Balding",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://balkanherb.com/wp-content/uploads/2021/11/u4mALDG-scaled.jpg"
     },
     {
       "teaName": "Wild yam",
@@ -793,7 +829,8 @@
       "origin": "Asia",
       "benefit": "Calming",
       "flavor": "Earthy",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322423_1100-1100x628.jpg"
     },
     {
       "teaName": "Yarrow",
@@ -802,7 +839,8 @@
       "origin": "China",
       "benefit": "Fever Relief",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/12/yarrow-tea-1296x728-header-1296x728.jpg?w=1155&h=1528"
     },
     {
       "teaName": "Yellow dock",
@@ -811,7 +849,8 @@
       "origin": "China",
       "benefit": "Blood",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://i.ebayimg.com/images/g/s-wAAOSwMQ9kbJfI/s-l1200.jpg"
     },
     {
       "teaName": "Yerba Santa",
@@ -820,7 +859,8 @@
       "origin": "China",
       "benefit": "Allergies",
       "flavor": "Floral",
-      "caffeineLevel": "None"
+      "caffeineLevel": "None",
+      "imageLink": "https://www.woodberg.de/media/image/95/e1/c8/douglas-fir-spring-tip-02.jpg"
     },
     {
       "teaName": "Oolong",
@@ -829,7 +869,8 @@
       "origin": "Taiwan",
       "benefit": "Reduce High Cholesterol",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://www.heychina.com.au/wp-content/uploads/2020/01/all-you-need-to-know-about-oolong-tea.jpg"
     },
     {
       "teaName": "Yellow Godess",
@@ -838,7 +879,8 @@
       "origin": "China",
       "benefit": "weight loss",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://teajourney.pub/wp-content/uploads/2019/06/TJBLOG190630_Tasting-Notes_Yellow-Goddess-Mercy_Liquor-1024x683.jpg"
     },
     {
       "teaName": "Water Fairy",
@@ -847,7 +889,8 @@
       "origin": "China",
       "benefit": "Reduce High Cholesterol",
       "flavor": "Vegetal",
-      "caffeineLevel": "Low"
+      "caffeineLevel": "Low",
+      "imageLink": "https://www.health.com/thmb/FoA59NMeHtURx6EpuB1oCdDzlHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/OolongTea-231cf721d79545c19320a46f8fa4d8d4.jpg"
     },
     {
       "teaName": "Pu-erh",
@@ -856,7 +899,8 @@
       "origin": "China",
       "benefit": "Reduce High Cholesterol",
       "flavor": "Earthy",
-      "caffeineLevel": "High"
+      "caffeineLevel": "High",
+      "imageLink": "https://www.realsimple.com/thmb/fkyqWgediJG036Ln9LCvtT2K07A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pu-erh-tea-tout-1-e832396debb1430cb3ed5838278a7849.jpg"
     },
     {
       "teaName": "Longevity Eyebrow",
@@ -865,7 +909,8 @@
       "origin": "China",
       "benefit": "anti-aging",
       "flavor": "Floral",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://miro.medium.com/v2/resize:fit:1400/0*gmFd22vnREILykmv.jpg"
     },
     {
       "teaName": "Jasmine silver needle",
@@ -874,7 +919,8 @@
       "origin": "China",
       "benefit": "anti-aging",
       "flavor": "Floral",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://images.squarespace-cdn.com/content/5947d3d137c5812feb97ec13/1639851348930-GHMCHGLXK0GP4CNMOD9S/IMG_3250.jpg?format=1500w&content-type=image%2Fjpeg"
     },
     {
       "teaName": "Silver needle",
@@ -883,7 +929,8 @@
       "origin": "China",
       "benefit": "anti-aging",
       "flavor": "Floral",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://m.media-amazon.com/images/I/819FcyZBtZL.jpg"
     },
     {
       "teaName": "White poeny",
@@ -892,7 +939,8 @@
       "origin": "China",
       "benefit": "anti-aging",
       "flavor": "Floral",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://i1.wp.com/teaandnailpolish.com/wp-content/uploads/2016/08/DavidsTea-Royal-White-Peony-Davids-Tea-Review-1.jpg?resize=697%2C523"
     },
     {
       "teaName": "White monkey paw",
@@ -901,16 +949,18 @@
       "origin": "China",
       "benefit": "anti-aging",
       "flavor": "Floral",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://www.adagio.com/images5/products_retina/white_monkey.jpg"
     },
-    {
+    { 
       "teaName": "Tribute eyebrow",
       "type": "White",
       "steepTime": "1-3 min",
       "origin": "China",
       "benefit": "anti-aging",
       "flavor": "Floral",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://www.highmountaintea.com.au/cdn/shop/products/IMG_6338.jpg?v=1668665665&width=1946"
     },
     {
       "teaName": "Jun Shan",
@@ -919,7 +969,8 @@
       "origin": "China",
       "benefit": "weight loss",
       "flavor": "Vegetal",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://images.squarespace-cdn.com/content/v1/5763385ebebafb91cc355c36/1500408035054-719R61GN8T2M6GS2C8GI/IMG_6110.jpg?format=1000w"
     },
     {
       "teaName": "Meng Ding",
@@ -928,7 +979,8 @@
       "origin": "China",
       "benefit": "weight loss",
       "flavor": "Vegetal",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://treasuregreen.com/cdn/shop/files/IMG_6418_1400x_5feee827-b890-4e27-984d-e372504126be_800x.webp?v=1683330251"
     },
     {
       "teaName": "Mo Gan",
@@ -937,6 +989,7 @@
       "origin": "China",
       "benefit": "weight loss",
       "flavor": "Vegetal",
-      "caffeineLevel": "Med"
+      "caffeineLevel": "Med",
+      "imageLink": "https://www.sazentea.com/content/products/big/TCH067-3.jpg?20230720"
     }
    ]
