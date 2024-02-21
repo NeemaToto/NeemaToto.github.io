@@ -4,7 +4,7 @@
       "type": "Black",
       "steepTime": "3 min",
       "origin": "England",
-      "benefit": "Stress",
+      "benefit": "Destress",
       "flavor": "Earthy",
       "caffeineLevel": "High",
       "imageLink": "https://images.squarespace-cdn.com/content/v1/5ac512d2b10598fe70ea9df5/1570554262820-EL82ZAWW9AWZCSWIFJBU/Learn+how+to+make+your+own+Earl+Grey+tea+with+only+3+ingredients.+Cater+it+to+the+strength+you+prefer."
@@ -14,7 +14,7 @@
       "type": "Black",
       "steepTime": "3 min",
       "origin": "China",
-      "benefit": "stroke",
+      "benefit": "Prevent Stroke",
       "flavor": "Earthy",
       "caffeineLevel": "High",
       "imageLink": "https://uploads-ssl.webflow.com/5d8a366133b3d4f879cbd418/5e56c947ee3a0917057aff91_u2w0di8Y_Gvnsg89M6zqlNgQEi37lHOa5SPUF2fuqLZDVvYFpHRe_G2KMFXGSAVsPRrM41OZ6jVYSpme7nEQcMjHrlJ3nRLuapGdbNERr0hPUUk8RLai_abPxtmdAcLjnBwxfQP3.jpeg"
@@ -24,7 +24,7 @@
       "type": "Black",
       "steepTime": "3 min",
       "origin": "India",
-      "benefit": "stroke",
+      "benefit": "Prevent Stroke",
       "flavor": "Spicy",
       "caffeineLevel": "High",
       "imageLink": "https://thehouseandhomestead.com/wp-content/uploads/2021/12/Chai-Tea-Mix-5-720x720.jpg"
@@ -34,7 +34,7 @@
       "type": "Black",
       "steepTime": "3 min",
       "origin": "England",
-      "benefit": "cholesterol",
+      "benefit": "Reduce High Cholesterol",
       "flavor": "Earthy",
       "caffeineLevel": "High",
       "imageLink": "https://www.lifeisbetterwithtea.com/wp-content/uploads/2021/09/English-Breakfast-Tea-with-milk-square.jpeg"
@@ -55,7 +55,7 @@
       "type": "Black",
       "steepTime": "3 min",
       "origin": "Turkey",
-      "benefit": "heart",
+      "benefit": "Heart Health",
       "flavor": "Earthy",
       "caffeineLevel": "High",
       "imageLink": "https://i0.wp.com/rayhaber.com/wp-content/uploads/2023/06/Rize-Cayi-THYnin-Ikram-Menusunde-Yer-Alacak.jpg?fit=2136%2C1200&ssl=1"
@@ -65,7 +65,7 @@
       "type": "Black",
       "steepTime": "3 min",
       "origin": "India",
-      "benefit": "Cancer",
+      "benefit": "Prevent Cancer",
       "flavor": "Earthy",
       "caffeineLevel": "High",
       "imageLink": "https://teaforte.com/cdn/shop/articles/TF_What_Is_Darjeeling_HERO_V3_2880x1512_d72eecbe-c914-4fe3-8325-11366b7ee396.jpg?v=1705961868&width=2880"
@@ -85,7 +85,7 @@
       "type": "Black",
       "steepTime": "3 min",
       "origin": "China",
-      "benefit": "immune system",
+      "benefit": "Strengthen Immune System",
       "flavor": "Earthy",
       "caffeineLevel": "High",
       "imageLink": "https://d27pcll2dx97vv.cloudfront.net/pub/media/catalog/product/g/a/gaojijinmaohou_m_1.jpg"
@@ -95,7 +95,7 @@
       "type": "Black",
       "steepTime": "3 min",
       "origin": "Taiwan",
-      "benefit": "immune system",
+      "benefit": "Strengthen Immune System",
       "flavor": "Earthy",
       "caffeineLevel": "High",
       "imageLink": "https://zenteatraders.com/cdn/shop/products/SunMoon_1200x1200.jpg?v=1591857343"
@@ -105,7 +105,7 @@
       "type": "Black",
       "steepTime": "3 min",
       "origin": "India",
-      "benefit": "Heart",
+      "benefit": "Heart Health",
       "flavor": "Earthy",
       "caffeineLevel": "High",
       "imageLink": "https://www.thespruceeats.com/thmb/v9Xe9oKOBwILGwNh27eundLnn3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/assamteaAnthiaCumming-114dde044d944c91bf2d77e3fb85d0e0.jpg"
@@ -115,7 +115,7 @@
       "type": "Black",
       "steepTime": "3 min",
       "origin": "India",
-      "benefit": "Heart",
+      "benefit": "Heart Health",
       "flavor": "Earthy",
       "caffeineLevel": "High",
       "imageLink": "https://senchateabar.com/cdn/shop/articles/5e46df9c1892f18f3cdee574_AdobeStock_316822193_1200x1200.jpeg?v=1596842745"
@@ -125,7 +125,7 @@
       "type": "Green",
       "steepTime": "3-4 min",
       "origin": "China",
-      "benefit": "Cancer",
+      "benefit": "Prevent Cancer",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
       "imageLink": "https://sevencups.com/files/2015/10/GT-YunWu21-Dry-Leaf.jpg"
@@ -135,7 +135,7 @@
       "type": "Green",
       "steepTime": "3-4 min",
       "origin": "China",
-      "benefit": "Cancer",
+      "benefit": "Prevent Cancer",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
       "imageLink": "https://redblossomtea.com/cdn/shop/products/LiuAnGuaPian_1_1024x1024.jpg?v=1689296950"
@@ -145,7 +145,7 @@
       "type": "Green",
       "steepTime": "3-4 min",
       "origin": "China",
-      "benefit": "Cancer",
+      "benefit": "Prevent Cancer",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
       "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDD4HQm9U_kNpkRwr8iVtXBEFfkbC_koofyA&usqp=CAU"
@@ -155,7 +155,7 @@
       "type": "Green",
       "steepTime": "3-4 min",
       "origin": "China",
-      "benefit": "Cancer",
+      "benefit": "Prevent Cancer",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
       "imageLink": "https://cdn11.bigcommerce.com/s-qzq8dm5/images/stencil/1280x1280/products/24537/367462/O1CN01cWfpK11WzvUl3I1ED_716282860__05469.1650079161.jpg?c=2"
@@ -165,7 +165,7 @@
       "type": "Green",
       "steepTime": "3-4 min",
       "origin": "China",
-      "benefit": "heart",
+      "benefit": "Heart Health",
       "flavor": "Earthy",
       "caffeineLevel": "Low",
       "imageLink": "https://www.harney.com/cdn/shop/articles/harney-blog-gunpowder-1.jpg?v=1631915390&width=1000"
@@ -186,7 +186,7 @@
       "type": "Green",
       "steepTime": "2-3 min",
       "origin": "China",
-      "benefit": "Cancer",
+      "benefit": "Prevent Cancer",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
       "imageLink": "https://cdn11.bigcommerce.com/s-y3f62xrw45/images/stencil/2048x2048/products/238/204/103._Green_Monkey_King_1oz_2__57308.1574067675.jpg?c=1"
@@ -207,7 +207,7 @@
       "type": "Green",
       "steepTime": "3-4 min",
       "origin": "China",
-      "benefit": "Cancer",
+      "benefit": "Prevent Cancer",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
       "imageLink": "https://yunnansourcing.com/cdn/shop/products/DSC_3447_da6ff718-ed83-4d1c-8bfe-ca685792e1fe_1049x700.jpg?v=1616724031"
@@ -247,7 +247,7 @@
       "type": "Green",
       "steepTime": "3-4 min",
       "origin": "Japan",
-      "benefit": "Cancer",
+      "benefit": "Prevent Cancer",
       "flavor": "Earthy",
       "caffeineLevel": "Low",
       "imageLink": "https://th.bing.com/th/id/OIP.B3s2w5YoNEkCAL01GqgbzwHaHa?rs=1&pid=ImgDetMain"
@@ -257,7 +257,7 @@
       "type": "Green",
       "steepTime": "3-4 min",
       "origin": "Korea",
-      "benefit": "Cancer",
+      "benefit": "Prevent Cancer",
       "flavor": "Vegetal",
       "caffeineLevel": "Low",
       "imageLink": "https://maketeas.com/wp-content/uploads/2023/12/Sejak-Tea.webp"
@@ -287,7 +287,7 @@
       "type": "Green",
       "steepTime": "3-4 min",
       "origin": "Korea",
-      "benefit": "Cancer",
+      "benefit": "Prevent Cancer",
       "flavor": "Earthy",
       "caffeineLevel": "Low",
       "imageLink": "https://th.bing.com/th/id/OIP.OrD-0SE3pvuxamciektv-AHaE8?w=291&h=193&c=7&r=0&o=5&dpr=1.3&pid=1.7"
@@ -297,7 +297,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "Egypt",
-      "benefit": "Sleep",
+      "benefit": "Improve Sleep",
       "flavor": "Floral",
       "caffeineLevel": "None",
       "imageLink": "https://th.bing.com/th/id/OIP.5YYc4wohGbwzS_BcdHZRRQHaFf?w=246&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7"
@@ -307,7 +307,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "America",
-      "benefit": "Cold",
+      "benefit": "Cold Relief",
       "flavor": "Earthy",
       "caffeineLevel": "None",
       "imageLink": "https://teaperspective.com/wp-content/uploads/2016/07/tea-made-from-echinacea.jpg"
@@ -317,7 +317,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "Middle East",
-      "benefit": "Blood pressure",
+      "benefit": "Reducing Blood Pressure",
       "flavor": "Floral",
       "caffeineLevel": "None",
       "imageLink": "https://th.bing.com/th/id/R.155bfe9f3f211918ca3ac257e38b23c4?rik=92MOnmnP0xY3Og&pid=ImgRaw&r=0"
@@ -327,7 +327,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "South Africa",
-      "benefit": "Cancer",
+      "benefit": "Prevent Cancer",
       "flavor": "Earthy",
       "caffeineLevel": "None",
       "imageLink": "https://flipthelife.com/wp-content/uploads/2017/11/Health-benefits-of-rooibos-tea.jpg"
@@ -347,7 +347,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "China",
-      "benefit": "Fever",
+      "benefit": "Fever Relief",
       "flavor": "Earthy",
       "caffeineLevel": "None",
       "imageLink": "https://www.dumplingconnection.com/wp-content/uploads/2020/07/AdobeStock_241672886.jpeg"
@@ -387,7 +387,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "India",
-      "benefit": "Cold",
+      "benefit": "Cold Relief",
       "flavor": "Sweet",
       "caffeineLevel": "None",
       "imageLink": "https://th.bing.com/th/id/R.fac2409d3060edce2697f17b0f309df2?rik=KZNqw1M%2bmzT9BQ&riu=http%3a%2f%2fyesofcorsa.com%2fwp-content%2fuploads%2f2017%2f07%2fLemon-Tea-Wallpaper-Full-HD.jpg&ehk=FV4nBFzzExCP%2fnyw3C4RELWohTdpLO3BEqgCeRjBlrQ%3d&risl=&pid=ImgRaw&r=0"
@@ -407,7 +407,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "China",
-      "benefit": "Cold",
+      "benefit": "Cold Relief",
       "flavor": "Earthy",
       "caffeineLevel": "None",
       "imageLink": "https://th.bing.com/th/id/R.e180f45327768167be50f27938c83727?rik=AQA8LGmrJ6diCQ&pid=ImgRaw&r=0"
@@ -447,7 +447,7 @@
       "type": "Herbal",
       "steepTime": "7-12 min",
       "origin": "China",
-      "benefit": "Cold",
+      "benefit": "Cold Relief",
       "flavor": "Earthy",
       "caffeineLevel": "None",
       "imageLink": "https://steepedstreet.com/wp-content/uploads/2023/03/Angelica-Root-Tea-Recipe-Cup.jpg"
@@ -521,7 +521,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "China",
-      "benefit": "Brain",
+      "benefit": "Improve Brain Function",
       "flavor": "Spicy",
       "caffeineLevel": "None"
     },
@@ -557,7 +557,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "Egypt",
-      "benefit": "eyes",
+      "benefit": "Improve Eyesight",
       "flavor": "Earthy",
       "caffeineLevel": "None"
     },
@@ -566,16 +566,16 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "Greece",
-      "benefit": "eyes",
+      "benefit": "Improve Eyesight",
       "flavor": "Earthy",
       "caffeineLevel": "None"
     },
     {
-      "teaName": "feverfew",
+      "teaName": "FeverFew",
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "Australia",
-      "benefit": "fever",
+      "benefit": "Fever Relief",
       "flavor": "Earthy",
       "caffeineLevel": "None"
     },
@@ -584,7 +584,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "China",
-      "benefit": "Heart",
+      "benefit": "Heart Health",
       "flavor": "Spicy",
       "caffeineLevel": "None"
     },
@@ -593,7 +593,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "Japan",
-      "benefit": "Brain",
+      "benefit": "Improve Brain Function",
       "flavor": "Earthy",
       "caffeineLevel": "None"
     },
@@ -602,7 +602,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "China",
-      "benefit": "Cold",
+      "benefit": "Cold Relief",
       "flavor": "Earthy",
       "caffeineLevel": "None"
     },
@@ -611,7 +611,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "America",
-      "benefit": "Kidney",
+      "benefit": "Improve Kidney Health",
       "flavor": "Floral",
       "caffeineLevel": "None"
     },
@@ -674,7 +674,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "China",
-      "benefit": "Heart",
+      "benefit": "Heart Health",
       "flavor": "Earthy",
       "caffeineLevel": "None"
     },
@@ -683,7 +683,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "China",
-      "benefit": "Kidney",
+      "benefit": "Improve Kidney Health",
       "flavor": "Earthy",
       "caffeineLevel": "None"
     },
@@ -692,7 +692,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "China",
-      "benefit": "Kidney",
+      "benefit": "Improve Kidney Health",
       "flavor": "Floral",
       "caffeineLevel": "None"
     },
@@ -701,7 +701,7 @@
       "type": "Herbal",
       "steepTime": "15 min",
       "origin": "China",
-      "benefit": "Cold",
+      "benefit": "Cold Relief",
       "flavor": "Sweet",
       "caffeineLevel": "None"
     },
@@ -719,7 +719,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "China",
-      "benefit": "Cancer",
+      "benefit": "Prevent Cancer",
       "flavor": "Vegetal",
       "caffeineLevel": "None"
     },
@@ -755,7 +755,7 @@
       "type": "Herbal",
       "steepTime": "5-10 min",
       "origin": "Asia",
-      "benefit": "appatite",
+      "benefit": "Improve Appatite",
       "flavor": "Earthy",
       "caffeineLevel": "None"
     },
@@ -764,7 +764,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "China",
-      "benefit": "fever",
+      "benefit": "Fever Relief",
       "flavor": "Floral",
       "caffeineLevel": "None"
     },
@@ -773,7 +773,7 @@
       "type": "Herbal",
       "steepTime": "5 min",
       "origin": "Asia",
-      "benefit": "Diabetes",
+      "benefit": "Reduce Blood Sugar",
       "flavor": "Earthy",
       "caffeineLevel": "None"
     },
@@ -782,7 +782,7 @@
       "type": "Herbal",
       "steepTime": "5-8 min",
       "origin": "Asia",
-      "benefit": "balding",
+      "benefit": "Decrease Balding",
       "flavor": "Earthy",
       "caffeineLevel": "None"
     },
@@ -800,7 +800,7 @@
       "type": "Herbal",
       "steepTime": "4-5 min",
       "origin": "China",
-      "benefit": "fever",
+      "benefit": "Fever Relief",
       "flavor": "Floral",
       "caffeineLevel": "None"
     },
@@ -827,7 +827,7 @@
       "type": "Oolong",
       "steepTime": "3-6 min",
       "origin": "Taiwan",
-      "benefit": "cholesterol",
+      "benefit": "Reduce High Cholesterol",
       "flavor": "Vegetal",
       "caffeineLevel": "Low"
     },
@@ -845,7 +845,7 @@
       "type": "Oolong",
       "steepTime": "3-6 min",
       "origin": "China",
-      "benefit": "cholesterol",
+      "benefit": "Reduce High Cholesterol",
       "flavor": "Vegetal",
       "caffeineLevel": "Low"
     },
@@ -854,7 +854,7 @@
       "type": "Pu-erh",
       "steepTime": "3-5 min",
       "origin": "China",
-      "benefit": "cholesterol",
+      "benefit": "Reduce High Cholesterol",
       "flavor": "Earthy",
       "caffeineLevel": "High"
     },
